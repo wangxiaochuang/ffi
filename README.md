@@ -1,5 +1,16 @@
 # fii
 
+## nodejs调用 rust 库
+
+使用脚手架代码 [package-template](https://github.com/napi-rs/package-template)
+
+编译
+
+```sh
+yarn install
+yarn build
+```
+
 ## python调用 rust 库
 
 ### 开发环境
